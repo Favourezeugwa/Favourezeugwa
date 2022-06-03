@@ -19,3 +19,7 @@ I'm a software engineer who is passionate about building websites and web apps, 
 - Tinkering with interactions on <a href="https://codepen.io/favourezeugwa"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/favour-amarachi-ezeugwa-a5bb31149/">LinkedIn</a> 💼
 - Contact me on <a href="favourezeugwa@gmail.com/">Gmail</a> 📫
+
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favourezeugwa&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
