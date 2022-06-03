@@ -1,5 +1,5 @@
-# Hi, I'm Favour 👋🏾 👩🏾‍💻
-
+# <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"> I'm Favour!</h2>
+<!-- 🏾‍💻 -->
 
 I'm a software engineer who is passionate about building websites and web apps, making contributions to open-source, and public speaking. Some technologies I enjoy working with include JavaScript, HTML/CSS, Bootstrap.
 
