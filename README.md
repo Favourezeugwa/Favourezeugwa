@@ -22,4 +22,4 @@ A software engineer who is passionate about building websites and web apps, maki
 <br/>
 
 ## My Github stats card: <img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="35">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favourezeugwa&count_private=true&show_icons=true&theme=moltack&border_radius=15)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Favourezeugwa&layout=compact&theme=moltack&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favourezeugwa&count_private=true&show_icons=true&theme=moltack&border_radius=15)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Favourezeugwa&layout=compact&theme=moltack&border_radius=15&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
