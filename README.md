@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"> This is Favour!</h2>
 <!-- 🏾‍💻 -->
 
-A software engineer who is passionate about building websites and web apps, making contributions to open-source, and public speaking. Some technologies I enjoy working with include JavaScript, HTML/CSS, Bootstrap.
+A software engineer who is passionate about building websites and web apps, making contributions to open-source, and public speaking. Some technologies I enjoy working with includes JavaScript, HTML/CSS, Bootstrap.
 
 <br/>
 
@@ -22,4 +22,6 @@ A software engineer who is passionate about building websites and web apps, maki
 <br/>
 
 ## My Github stats card <img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="40">:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favourezeugwa&count_private=true&show_icons=true&theme=moltack&border_radius=15)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Favourezeugwa&layout=compact&theme=moltack&border_radius=15&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/Favourezeugwa/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Favourezeugwa&count_private=true&show_icons=true&include_all_commits=true&theme=moltack&border_radius=10" alt="Favour's github stats" /></a> | <a href="https://github.com/Favourezeugwa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Favourezeugwa&layout=compact&theme=moltack&border_radius=10&card_width=260" /></a> | 
+| ------------- | ------------- |
+
