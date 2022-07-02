@@ -25,3 +25,4 @@ A software engineer who is passionate about building websites and web apps, maki
 | <a href="https://github.com/Favourezeugwa/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Favourezeugwa&count_private=true&show_icons=true&include_all_commits=true&theme=moltack&border_radius=10" alt="Favour's github stats" /></a> | <a href="https://github.com/Favourezeugwa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Favourezeugwa&layout=compact&theme=moltack&border_radius=10&card_width=260" /></a> | 
 | ------------- | ------------- |
 
+![](https://komarev.com/ghpvc/?username=Favourezeugwa&style=plastic&color=grey&label=PROFILE+VIEWS)
