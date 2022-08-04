@@ -7,7 +7,7 @@ A software engineer who is passionate about building websites and web apps, maki
 
 
 - 🔭 Student at Microverse.
-- 🌱 Currently learning React, Redux.
+- 🌱 Currently learning React and Redux.
 - 👯 Looking to work with software engineers globally.
 - 💬 Ask me about Front-End web dev.
 - 😄 Pronouns: she/her.
@@ -18,6 +18,11 @@ A software engineer who is passionate about building websites and web apps, maki
 - Tinkering with interactions on <a href="https://codepen.io/favourezeugwa"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/favour-amarachi-ezeugwa-a5bb31149/">LinkedIn</a> 💼
 - Contact me on <a href="favourezeugwa@gmail.com/">Gmail</a> 📫
+
+<br/>
+
+## Latest Blog Post <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="50">
+- [Having a Growth Mindset as a developer](https://dev.to/favourezeugwa/having-a-growth-mindset-as-a-developer-5255)
 
 <br/>
 
