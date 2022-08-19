@@ -7,22 +7,21 @@ A software engineer who is passionate about building websites and web apps, maki
 
 
 - 🔭 Student at Microverse.
-- 🌱 Currently learning React and Redux.
+- 🌱 Currently learning Databases(PosgreSQL) and Ruby.
 - 👯 Looking to work with software engineers globally.
 - 💬 Ask me about Front-End web dev.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I love to travel and have fun with family.
+
 <br/>
 
-## Find me around the web 🌎: <a href="https://github.com/Favourezeugwa"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎: <a href="https://github.com/Favourezeugwa"><img align="left" width="250" height="250" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Tinkering with interactions on <a href="https://codepen.io/favourezeugwa"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/favour-amarachi-ezeugwa-a5bb31149/">LinkedIn</a> 💼
 - Contact me on <a href="favourezeugwa@gmail.com/">Gmail</a> 📫
-
-<br/>
-
 ## Latest Blog Post <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="50">
 - [Having a Growth Mindset as a developer](https://dev.to/favourezeugwa/having-a-growth-mindset-as-a-developer-5255)
+
 
 <br/>
 
