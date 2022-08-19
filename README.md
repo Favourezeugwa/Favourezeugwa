@@ -7,7 +7,7 @@ A software engineer who is passionate about building websites and web apps, maki
 
 
 - 🔭 Student at Microverse.
-- 🌱 Currently learning Databases(PosgreSQL) and Ruby.
+- 🌱 Currently learning Databases(PostgreSQL) and Ruby.
 - 👯 Looking to work with software engineers globally.
 - 💬 Ask me about Front-End web dev.
 - 😄 Pronouns: she/her.
