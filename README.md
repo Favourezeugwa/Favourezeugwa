@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"> This is Favour!</h2>
 <!-- 🏾‍💻 -->
 
-A software engineer who is passionate about building websites and web apps, making contributions to open-source, and public speaking. Some technologies I enjoy working with includes JavaScript, HTML/CSS, Bootstrap.
+A software engineer who is passionate about building websites and web apps, making contributions to open-source, and public speaking. Some technologies I enjoy working with includes JavaScript, HTML/CSS, Bootstrap, React, Redux, API's.
 
 <br/>
 
