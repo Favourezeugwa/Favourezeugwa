@@ -11,13 +11,14 @@ I am a software engineer who is passionate about building websites and web apps,
 
 ```javascript
 const favour = {
-  FullName: "Favour Amarachi Ezeugwa"
+  fullName: "Favour Amarachi Ezeugwa"
   studentAt: "Microverse"
   currentlyLearning: "Databases(PostgreSQL)", "Ruby", "Ruby on Rails"
   lookingFor: "Front-end development opportunities" || "Full-stack web developement",
   pronouns: ["she", "her"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Ruby, Bootstrap, 
+  techStack: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Ruby, Bootstrap, 
   PostgreSQL],
+  tools: [Netlify, Github, Gitlab, Dev, Heroku, Git],
   challenge: "Road to being the best by constantly improving my skills",
   askMeAbout: ["Front-End web dev", "Salvation", "Nigerian food"],
   telephoneNumber: "+2348065780196"
